@@ -1,0 +1,7 @@
+django-admin startproject webbanhang
+django-admin startapp app
+python manage.py migrate
+python manage.py runserver
+python manage.py createsuperuser
+python manage.py makemigrations
+bai 22 giup them san pham
